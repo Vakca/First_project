@@ -1,0 +1,15 @@
+.text{
+    text-shadow: 10px 2px 3px red;
+    text-decoration: line-through;
+}
+video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: -100;
+}
+.L{
+    font-size: 100px;
+}
